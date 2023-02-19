@@ -30,7 +30,7 @@
 5. 打開瀏覽器進入到以下網址
 
    ```bash
-   Express is running on http://localhost:3000
+   Express is listening on http://localhost:3000
    ```
 
 6. 結束
